@@ -109,7 +109,7 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 ![Helm](https://img.shields.io/badge/Helm-%230F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### 🔒 DevSecOps
-![SonarCloud](https://img.shields.io/badge/SonarCloud-%23F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+| SonarCloud | <img src="https://img.shields.io/badge/SonarCloud-%23F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud"/> |
 ![Snyk](https://img.shields.io/badge/Snyk-%234C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 
 ### 📊 Monitoring & Observability
