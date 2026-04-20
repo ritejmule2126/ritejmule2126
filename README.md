@@ -21,35 +21,30 @@
 
 ## 👋 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <p><strong>Name:</strong> Ritej Anil Mule<br>
-      <strong>Role:</strong> DevOps & Cloud Infrastructure Engineer<br>
-      <strong>Location:</strong> Mumbai, India</p>
-      
-      <p><strong>Focus:</strong><br>
-      - Cloud-Native Automation (AWS)<br>
-      - Infrastructure as Code (Terraform)<br>
-      - Container Orchestration (Kubernetes / EKS)<br>
-      - CI/CD Pipeline Engineering<br>
-      - Security-First DevOps (DevSecOps)<br>
-      - GitOps (ArgoCD)</p>
-      
-      <p><strong>Mantra:</strong> <em>"If it's not automated, it's technical debt."</em><br>
-      <strong>Currently Learning:</strong> [GitOps, ArgoCD, Observability at Scale]</p>
-      
-      <p>I'm a <strong>detail-oriented DevOps engineer</strong> with deep hands-on experience across the full infrastructure lifecycle — from writing modular Terraform to shipping containers on production EKS clusters. I care about <strong>99.9% reliability</strong>, reducing MTTD/MTTR, and treating infrastructure as living, versioned software.</p>
-      
-      <p>My work is driven by three principles: <strong>automate aggressively</strong>, <strong>secure by default</strong>, and <strong>observe everything</strong>.</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1rb3FxcW9hYjR6cTlkY3N1aG5wbW9qZ3RkY2h0bHZkY3ZtY2ZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer working on laptop with coffee" width="280" style="border-radius: 16px;">
-      <br>
-      <em>Coding. Automating. Caffeinating. ☕</em>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1rb3FxcW9hYjR6cTlkY3N1aG5wbW9qZ3RkY2h0bHZkY3ZtY2ZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="250" style="border-radius: 16px;" />
+</div>
+
+**Name:** Ritej Anil Mule  
+**Role:** DevOps & Cloud Infrastructure Engineer  
+**Location:** Mumbai, India  
+
+**Focus:**  
+- Cloud-Native Automation (AWS)  
+- Infrastructure as Code (Terraform)  
+- Container Orchestration (Kubernetes / EKS)  
+- CI/CD Pipeline Engineering  
+- Security-First DevOps (DevSecOps)  
+- GitOps (ArgoCD)  
+
+**Mantra:** *"If it's not automated, it's technical debt."*  
+**Currently Learning:** GitOps, ArgoCD, Observability at Scale  
+
+I'm a **detail-oriented DevOps engineer** with deep hands-on experience across the full infrastructure lifecycle — from writing modular Terraform to shipping containers on production EKS clusters. I care about **99.9% reliability**, reducing MTTD/MTTR, and treating infrastructure as living, versioned software.
+
+My work is driven by three principles: **automate aggressively**, **secure by default**, and **observe everything**.
+
+<br clear="both">
 
 ---
 
