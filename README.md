@@ -254,16 +254,13 @@ Over **15 structured weeks**, I progressed from Linux fundamentals to production
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Development Activity
 
 <div align="center">
 
-[![Ritej's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritejmule2126&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritejmule2126&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ritejmule2126&theme=react-dark&hide_border=true&area=true&custom_title=Code%20&%20Infrastructure%20Activity)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ritejmule2126&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-> 📌 **Note:** All repositories above are actively maintained DevOps projects demonstrating real-world infrastructure automation, CI/CD pipelines, and cloud-native practices.
+> 💡 **Note:** My most significant DevOps work — EKS clusters, Terraform modules, and CI/CD pipelines — is developed in **private repositories and cloud labs**. The activity above represents public-facing contributions.
 
 </div>
 
