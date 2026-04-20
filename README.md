@@ -6,6 +6,9 @@
   <img alt="DevOps Engineer Banner" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Infrastructure+as+Code+Advocate;Container+Orchestration+Expert;DevSecOps+Practitioner;SRE+Fundamentals">
 </picture>
 
+<!-- HERO BANNER -->
+<img width="100%" src="github-visual.png" />
+
 ### *"Building Resilient Infrastructure, One Pipeline at a Time."*
 
 > Automate everything. Secure by default. Observe obsessively.
