@@ -45,6 +45,41 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Status |
+|---------------|--------|--------|
+| <img src="https://img.shields.io/badge/AWS-Certified%20Developer%20%E2%80%93%20Associate-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer Associate"/> | Amazon Web Services (via Infosys Springboard) | ✅ Active |
+| <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%202025%20Certified%20DevOps%20Professional-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure 2025 Certified DevOps Professional"/> | Oracle University | ✅ Active |
+| <img src="https://img.shields.io/badge/AWS-Cloud%20Quest%20Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Quest Cloud Practitioner"/> | Amazon Web Services | ✅ Active |
+
+</div>
+
+<details>
+<summary><b>📌 Certification Details & Credentials</b></summary>
+<br>
+
+**AWS Certified Developer – Associate**  
+- *Issued by:* Amazon Web Services (Infosys Springboard)  
+- *Skills Validated:* AWS service development, deployment, debugging, security, and serverless applications  
+- *Key Topics:* IAM, EC2, Lambda, API Gateway, DynamoDB, S3, CloudFormation
+
+**Oracle Cloud Infrastructure 2025 Certified DevOps Professional**  
+- *Issued by:* Oracle University  
+- *Skills Validated:* OCI DevOps services, CI/CD pipelines, Infrastructure as Code (Resource Manager), monitoring, and logging  
+- *Key Topics:* OCI DevOps, Terraform on OCI, Artifact Registry, Logging Analytics
+
+**AWS Cloud Quest Cloud Practitioner**  
+- *Issued by:* Amazon Web Services  
+- *Skills Validated:* AWS Cloud fundamentals, core services, pricing, security, and compliance  
+- *Key Topics:* EC2, S3, VPC, IAM, RDS, CloudWatch, Shared Responsibility Model
+
+</details>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
