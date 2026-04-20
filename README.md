@@ -266,16 +266,34 @@ Over **15 structured weeks**, I progressed from Linux fundamentals to production
 
 ---
 
+---
+
+## 🎯 What I'm Looking For
+
+I'm actively seeking **DevOps Engineer** or **Cloud Infrastructure Engineer** roles where I can:
+
+- 🔧 Build and scale cloud-native infrastructure on AWS
+- 🤖 Automate everything from CI/CD pipelines to infrastructure provisioning
+- 🔒 Implement security-first DevSecOps practices
+- 📊 Design observability and monitoring solutions
+- 🚢 Drive GitOps adoption with ArgoCD and Kubernetes
+
+<div align="center">
+
+**Open to opportunities** — Let's build something amazing together.
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
 
-If you're building cloud infrastructure, scaling microservices, or need a DevOps engineer who treats automation as a craft — let's talk.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritej)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ritejportfolio.kesug.com-%2300C896?style=for-the-badge&logo=vercel&logoColor=white)](https://ritejportfolio.kesug.com)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ritej)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritejmule2126)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repos-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritejmule2126)
 
 </div>
 
