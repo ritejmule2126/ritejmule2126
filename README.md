@@ -22,7 +22,8 @@
 ## 👋 About Me
 
 <div align="left">
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1rb3FxcW9hYjR6cTlkY3N1aG5wbW9qZ3RkY2h0bHZkY3ZtY2ZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="250" style="border-radius: 16px;" />
+  <img align="right" src="https://media.tenor.com/9eUqxGQqvCAAAAAi/coffee-coding.gif" width="280" style="border-radius: 16px;">
+
 </div>
 
 **Name:** Ritej Anil Mule  
