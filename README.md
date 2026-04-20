@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://ritejportfolio.kesug.com/images/github-visual.png" />
+<!-- HERO BANNER - GitHub Compatible -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Infrastructure+as+Code+Advocate;Container+Orchestration+Expert;DevSecOps+Practitioner;SRE+Fundamentals">
+  <img alt="DevOps Engineer Banner" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Infrastructure+as+Code+Advocate;Container+Orchestration+Expert;DevSecOps+Practitioner;SRE+Fundamentals">
+</picture>
 
 ### *"Building Resilient Infrastructure, One Pipeline at a Time."*
 
@@ -18,19 +21,22 @@
 
 ## 👋 About Me
 
-name: Ritej Anil Mule
-role: DevOps & Cloud Infrastructure Engineer
-location: India
-focus:
-  - Cloud-Native Automation (AWS)
-  - Infrastructure as Code (Terraform)
-  - Container Orchestration (Kubernetes / EKS)
-  - CI/CD Pipeline Engineering
-  - Security-First DevOps (DevSecOps)
-mantra: "If it's not automated, it's technical debt."
-currently_learning: [GitOps, ArgoCD, Observability at Scale]
+**Name:** Ritej Anil Mule  
+**Role:** DevOps & Cloud Infrastructure Engineer  
+**Location:** India  
 
-I'm a **detail-oriented DevOps engineer** with deep hands-on experience across the full infrastructure lifecycle — from writing modular Terraform to shipping containers on multi-region EKS clusters. I care about **99.9% reliability**, reducing MTTD/MTTR, and treating infrastructure as living, versioned software.
+**Focus:**  
+- Cloud-Native Automation (AWS)  
+- Infrastructure as Code (Terraform)  
+- Container Orchestration (Kubernetes / EKS)  
+- CI/CD Pipeline Engineering  
+- Security-First DevOps (DevSecOps)  
+- GitOps (ArgoCD)  
+
+**Mantra:** *"If it's not automated, it's technical debt."*  
+**Currently Learning:** [GitOps, ArgoCD, Observability at Scale]
+
+I'm a **detail-oriented DevOps engineer** with deep hands-on experience across the full infrastructure lifecycle — from writing modular Terraform to shipping containers on production EKS clusters. I care about **99.9% reliability**, reducing MTTD/MTTR, and treating infrastructure as living, versioned software.
 
 My work is driven by three principles: **automate aggressively**, **secure by default**, and **observe everything**.
 
@@ -55,6 +61,7 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 ### 🔁 CI/CD & Automation
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-%2341BF47?style=for-the-badge&logo=jfrog&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Amazon ECR](https://img.shields.io/badge/ECR-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -74,6 +81,7 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 ### 💻 Languages & Scripting
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![YAML](https://img.shields.io/badge/YAML-%23CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-%237B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
@@ -84,8 +92,30 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 ## 🚀 Featured DevOps Projects
 
 <table>
-<tr>
-<td width="33%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎯 End-to-End K8s Three-Tier Project
+**[→ View Repository](https://github.com/ritejmule2126/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project)**
+
+![AWS EKS](https://img.shields.io/badge/AWS%20EKS-%23FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Complete production-grade Three-Tier App (React + Node + MongoDB) on AWS EKS**
+
+- 🏗️ **Infrastructure:** Terraform for Jenkins Server + EKS cluster
+- 🔄 **CI/CD:** Jenkins pipelines for backend, frontend, and infrastructure
+- 🚢 **GitOps:** ArgoCD for declarative Kubernetes deployments
+- 📊 **Monitoring:** Prometheus + Grafana for real-time observability
+- 🔒 **Code Quality:** SonarQube integration with quality gates
+- 🌐 **Ingress:** Load balancer with external traffic routing
+
+</td>
+    <td width="50%" valign="top">
 
 ### 🔐 DevSecOps CI Pipeline
 **[→ View Repository](https://github.com/ritejmule2126/DevSecOps-CI-Pipeline-GitHub-Actions-Project)**
@@ -93,53 +123,75 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=flat-square&logo=githubactions&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-%23F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-%234C4A73?style=flat-square&logo=snyk&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog-%2341BF47?style=flat-square&logo=jfrog&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/EC2-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-Engineered a **6-stage automated pipeline** on a self-hosted AWS EC2 runner:
-`Build → SAST (SonarCloud) → Dependency Scan (Snyk) → Artifact Versioning (JFrog) → Docker Build → Docker Hub Push`
+**6-stage automated DevSecOps pipeline on self-hosted AWS EC2 runner**
 
-- ✅ **98.5% pipeline success rate**
-- 🔒 Integrated SAST & SCA scanning on every commit
-- 📦 Automated semantic artifact versioning via JFrog Artifactory
+- ✅ **98.5% pipeline success rate** | 3-4 min average build time
+- 🔒 SAST (SonarCloud) + SCA (Snyk) on every commit
+- 📦 JFrog Artifactory for versioned artifact storage
+- 🐳 Automated Docker builds with SHA-based tagging
+- 🔐 All credentials secured via GitHub Secrets
+- 📋 Reusable workflow files for maintainability
 
 </td>
-<td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-### ☸️ Multi-Region EKS Cluster
-**[→ View Repository](https://github.com/ritejmule2126/terraform-aws-eks-multi-region)**
+### 🏗️ EKS Terraform Infrastructure
+**[→ View Repository](https://github.com/ritejmule2126/EKS-Terraform-Infra)**
 
 ![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS EKS](https://img.shields.io/badge/EKS-%23FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-Architected a **fault-tolerant, highly available Kubernetes cluster** across multiple AWS AZs using modular Terraform:
+**Production-Ready EKS Cluster with Terraform + GitHub Actions Automation**
 
-- 🌐 **Multi-AZ node groups** with private subnet isolation
-- 🔀 **ALB Ingress Controller** for intelligent traffic routing
-- 📈 **HPA** configured for demand-driven autoscaling
-- 🏗️ 100% modular IaC — reusable across environments
+- 🏗️ **Modular IaC:** Reusable Terraform modules for EKS, VPC, Node Groups
+- 🔄 **CI/CD Automation:** GitHub Actions for automated infrastructure deployment
+- 🌐 **Networking:** Custom VPC with public/private subnets across multiple AZs
+- 🔒 **Security:** IAM roles, Security Groups, and least-privilege access
+- 📦 **Scalability:** Auto-scaling node groups with spot/fleet instance support
+- ☁️ **Remote State:** S3 backend with DynamoDB state locking
 
 </td>
-<td width="33%" valign="top">
+    <td width="50%" valign="top">
 
-### 🔄 Microservices Delivery Pipeline
-**[→ View Repository](https://github.com/ritejmule2126/jenkins-microservices-pipeline)**
+### 🐳 Docker AWS DevOps Capstone
+**[→ View Repository](https://github.com/ritejmule2126/docker-aws-devops-capstone-project)**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/ECR-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/EC2-%23FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Engineered an **end-to-end CI/CD pipeline** for containerized microservices using Pipeline-as-Code:
+**Full-Stack Application (React + Node + MySQL) Containerized & Deployed on AWS**
 
-- ⚡ **70% reduction** in manual deployment effort
-- 🐳 Automated Docker image builds + push to Amazon ECR
-- 🔁 Git-triggered pipeline with branch-based deployment strategy
-- 📋 Full `Jenkinsfile` — no ClickOps, ever
+- 🐳 **Multi-Container Setup:** Docker Compose for frontend, backend, database
+- ☁️ **Cloud Deployment:** AWS EC2 with proper security group configuration
+- 🔄 **Service Orchestration:** Internal bridge network for inter-service communication
+- 💾 **Data Persistence:** Docker volumes for MySQL database storage
+- 🩺 **Health Checks:** Custom /health endpoint with Docker monitoring
+- 📊 **Logging:** Centralized Docker logs for debugging and monitoring
 
 </td>
-</tr>
+  </tr>
 </table>
+
+---
+
+## 📊 Project Impact & Metrics
+
+| Project | Key Achievement | Tech Highlight |
+|---------|----------------|----------------|
+| **K8s Three-Tier** | Full GitOps workflow with ArgoCD | Prometheus + Grafana monitoring |
+| **DevSecOps Pipeline** | 98.5% success rate, 8 vulns caught/build | Self-hosted GitHub runner |
+| **EKS Terraform** | Modular, reusable infrastructure | S3 remote state + DynamoDB lock |
+| **Docker Capstone** | 4-container app on AWS EC2 | Health checks + persistent volumes |
 
 ---
 
@@ -173,7 +225,7 @@ Over **15 structured weeks**, I progressed from Linux fundamentals to production
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ritejmule2126&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-> 📌 **Note:** My most significant DevOps work — multi-region EKS clusters, Terraform modules, and secure pipelines — is developed in **private repositories and isolated cloud labs**. The pinned repositories above represent the public-facing portion of that work.
+> 📌 **Note:** All repositories above are actively maintained DevOps projects demonstrating real-world infrastructure automation, CI/CD pipelines, and cloud-native practices.
 
 </div>
 
@@ -188,6 +240,7 @@ If you're building cloud infrastructure, scaling microservices, or need a DevOps
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritej)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ritejportfolio.kesug.com-%2300C896?style=for-the-badge&logo=vercel&logoColor=white)](https://ritejportfolio.kesug.com)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ritej)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritejmule2126)
 
 </div>
 
