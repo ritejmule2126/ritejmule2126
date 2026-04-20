@@ -22,7 +22,7 @@
 ## 👋 About Me
 
 <div align="left">
-  <img align="right" src="development.lottie" width="280" style="border-radius: 16px;">
+  <img align="right" src="development.gif" width="280" style="border-radius: 16px;">
 </div>
 
 **Name:** Ritej Anil Mule  
