@@ -250,7 +250,7 @@ Over **15 structured weeks**, I progressed from Linux fundamentals to production
 | 13–14 | Kubernetes & EKS | Deployments, Services, Ingress, HPA |
 | 15 | Prometheus & Grafana | Full observability stack on K8s |
 
-**[→ Read the Full DevOps Journey]([https://ritejportfolio.kesug.com/devops-journey.html](https://ritejportfolio.kesug.com/pages/devops-journey.html))**
+**[→ Read the Full DevOps Journey](https://ritejportfolio.kesug.com/pages/devops-journey.html))**
 
 ---
 
