@@ -22,7 +22,7 @@
 ## 👋 About Me
 
 <div align="left">
-  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV6YjM3Y2l5aGZ3cGJ2cXJhbHZwd2R5aG5kNzN0aG5pZ3J0aGJqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="280" style="border-radius: 16px;">
+  <img align="right" src="https://lottiefiles.com/free-animation/development-svfYezB3fV" width="280" style="border-radius: 16px;">
 </div>
 
 **Name:** Ritej Anil Mule  
