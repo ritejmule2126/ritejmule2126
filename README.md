@@ -266,8 +266,6 @@ Over **15 structured weeks**, I progressed from Linux fundamentals to production
 
 ---
 
----
-
 ## 🎯 What I'm Looking For
 
 I'm actively seeking **DevOps Engineer** or **Cloud Infrastructure Engineer** roles where I can:
