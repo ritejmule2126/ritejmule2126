@@ -6,9 +6,6 @@
   <img alt="DevOps Engineer Banner" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Infrastructure+as+Code+Advocate;Container+Orchestration+Expert;DevSecOps+Practitioner;SRE+Fundamentals">
 </picture>
 
-<!-- HERO BANNER -->
-<img width="100%" src="github-visual.png" />
-
 ### *"Building Resilient Infrastructure, One Pipeline at a Time."*
 
 > Automate everything. Secure by default. Observe obsessively.
@@ -75,17 +72,14 @@
 **AWS Certified Developer – Associate**  
 - *Issued by:* Amazon Web Services (Infosys Springboard)  
 - *Skills Validated:* AWS service development, deployment, debugging, security, and serverless applications  
-- *Key Topics:* IAM, EC2, Lambda, API Gateway, DynamoDB, S3, CloudFormation
 
 **Oracle Cloud Infrastructure 2025 Certified DevOps Professional**  
 - *Issued by:* Oracle University  
-- *Skills Validated:* OCI DevOps services, CI/CD pipelines, Infrastructure as Code (Resource Manager), monitoring, and logging  
-- *Key Topics:* OCI DevOps, Terraform on OCI, Artifact Registry, Logging Analytics
+- *Skills Validated:* OCI DevOps services, CI/CD pipelines, Infrastructure as Code  
 
 **AWS Cloud Quest Cloud Practitioner**  
 - *Issued by:* Amazon Web Services  
 - *Skills Validated:* AWS Cloud fundamentals, core services, pricing, security, and compliance  
-- *Key Topics:* EC2, S3, VPC, IAM, RDS, CloudWatch, Shared Responsibility Model
 
 </details>
 
@@ -151,19 +145,15 @@
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**Complete production-grade Three-Tier App (React + Node + MongoDB) on AWS EKS**
+**Complete production-grade Three-Tier App on AWS EKS**
 
 - 🏗️ **Infrastructure:** Terraform for Jenkins Server + EKS cluster
-- 🔄 **CI/CD:** Jenkins pipelines for backend, frontend, and infrastructure
-- 🚢 **GitOps:** ArgoCD for declarative Kubernetes deployments
-- 📊 **Monitoring:** Prometheus + Grafana for real-time observability
-- 🔒 **Code Quality:** SonarQube integration with quality gates
-- 🌐 **Ingress:** Load balancer with external traffic routing
+- 🔄 **CI/CD:** Jenkins pipelines for backend, frontend
+- 🚢 **GitOps:** ArgoCD for declarative deployments
+- 📊 **Monitoring:** Prometheus + Grafana
 
-</td>
+    </td>
     <td width="50%" valign="top">
 
 ### 🔐 DevSecOps CI Pipeline
@@ -172,19 +162,15 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=flat-square&logo=githubactions&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-%23F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-%234C4A73?style=flat-square&logo=snyk&logoColor=white)
-![JFrog](https://img.shields.io/badge/JFrog-%2341BF47?style=flat-square&logo=jfrog&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
 
-**6-stage automated DevSecOps pipeline on self-hosted AWS EC2 runner**
+**6-stage automated pipeline on self-hosted AWS EC2 runner**
 
-- ✅ **98.5% pipeline success rate** | 3-4 min average build time
-- 🔒 SAST (SonarCloud) + SCA (Snyk) on every commit
-- 📦 JFrog Artifactory for versioned artifact storage
-- 🐳 Automated Docker builds with SHA-based tagging
-- 🔐 All credentials secured via GitHub Secrets
-- 📋 Reusable workflow files for maintainability
+- ✅ **98.5% pipeline success rate**
+- 🔒 SAST + SCA scanning on every commit
+- 🐳 Automated Docker builds with SHA tagging
 
-</td>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -195,18 +181,15 @@
 ![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS EKS](https://img.shields.io/badge/EKS-%23FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-**Production-Ready EKS Cluster with Terraform + GitHub Actions Automation**
+**Production-Ready EKS Cluster with Terraform**
 
-- 🏗️ **Modular IaC:** Reusable Terraform modules for EKS, VPC, Node Groups
-- 🔄 **CI/CD Automation:** GitHub Actions for automated infrastructure deployment
-- 🌐 **Networking:** Custom VPC with public/private subnets across multiple AZs
-- 🔒 **Security:** IAM roles, Security Groups, and least-privilege access
-- 📦 **Scalability:** Auto-scaling node groups with spot/fleet instance support
-- ☁️ **Remote State:** S3 backend with DynamoDB state locking
+- 🏗️ **Modular IaC:** Reusable Terraform modules
+- 🔄 **CI/CD:** GitHub Actions automation
+- 🌐 **Networking:** Custom VPC across multiple AZs
+- ☁️ **Remote State:** S3 + DynamoDB locking
 
-</td>
+    </td>
     <td width="50%" valign="top">
 
 ### 🐳 Docker AWS DevOps Capstone
@@ -216,18 +199,15 @@
 ![AWS EC2](https://img.shields.io/badge/EC2-%23FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Full-Stack Application (React + Node + MySQL) Containerized & Deployed on AWS**
+**Full-Stack App Containerized & Deployed on AWS**
 
-- 🐳 **Multi-Container Setup:** Docker Compose for frontend, backend, database
-- ☁️ **Cloud Deployment:** AWS EC2 with proper security group configuration
-- 🔄 **Service Orchestration:** Internal bridge network for inter-service communication
-- 💾 **Data Persistence:** Docker volumes for MySQL database storage
-- 🩺 **Health Checks:** Custom /health endpoint with Docker monitoring
-- 📊 **Logging:** Centralized Docker logs for debugging and monitoring
+- 🐳 **Multi-Container:** Docker Compose setup
+- ☁️ **Cloud Deployment:** AWS EC2
+- 💾 **Data Persistence:** Docker volumes
+- 🩺 **Health Checks:** Custom /health endpoint
 
-</td>
+    </td>
   </tr>
 </table>
 
@@ -238,7 +218,7 @@
 | Project | Key Achievement | Tech Highlight |
 |---------|----------------|----------------|
 | **K8s Three-Tier** | Full GitOps workflow with ArgoCD | Prometheus + Grafana monitoring |
-| **DevSecOps Pipeline** | 98.5% success rate, 8 vulns caught/build | Self-hosted GitHub runner |
+| **DevSecOps Pipeline** | 98.5% success rate | Self-hosted GitHub runner |
 | **EKS Terraform** | Modular, reusable infrastructure | S3 remote state + DynamoDB lock |
 | **Docker Capstone** | 4-container app on AWS EC2 | Health checks + persistent volumes |
 
@@ -248,7 +228,7 @@
 
 > *"I don't just use DevOps tools — I documented every step of learning them."*
 
-Over **15 structured weeks**, I progressed from Linux fundamentals to production-grade Kubernetes monitoring. This isn't a tutorial list — it's a **living record of deliberate, progressive learning**.
+Over **15 structured weeks**, I progressed from Linux fundamentals to production-grade Kubernetes monitoring.
 
 | Week | Topic | Milestone |
 |------|-------|-----------|
@@ -261,7 +241,7 @@ Over **15 structured weeks**, I progressed from Linux fundamentals to production
 | 13–14 | Kubernetes & EKS | Deployments, Services, Ingress, HPA |
 | 15 | Prometheus & Grafana | Full observability stack on K8s |
 
-**[→ Read the Full DevOps Journey](https://ritejportfolio.kesug.com/pages/devops-journey.html))**
+**[→ Read the Full DevOps Journey](https://ritejportfolio.kesug.com/pages/devops-journey.html)**
 
 ---
 
