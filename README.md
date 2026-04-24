@@ -215,6 +215,8 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 - ☁️ **Remote State:** S3 + DynamoDB locking
 
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 ### 🐳 Docker AWS DevOps Capstone
