@@ -39,6 +39,7 @@
 - CI/CD Pipeline Engineering  
 - Security-First DevOps (DevSecOps)  
 - GitOps (ArgoCD)  
+- **AI-Powered Infrastructure (MLOps)**  
 
 **Mantra:** *"If it's not automated, it's technical debt."*  
 **Currently Learning:** GitOps, ArgoCD, Observability at Scale  
@@ -111,9 +112,15 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%230F1689?style=for-the-badge&logo=helm&logoColor=white)
 
+### 🤖 AI/ML in DevOps (MLOps)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ### 🔒 DevSecOps
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-%23F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-%234C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-%2319044c?style=for-the-badge&logo=aqua&logoColor=white)
 
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -136,6 +143,26 @@ My work is driven by three principles: **automate aggressively**, **secure by de
   <tr>
     <td width="50%" valign="top">
 
+### 🤖 Self-Healing AI Infrastructure
+**[→ View Repository](https://github.com/ritejmule2126/self-healing-infra)**
+
+![AWS EKS](https://img.shields.io/badge/EKS-%23FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=flat-square&logo=githubactions&logoColor=white)
+
+**AI that predicts failures before they happen. Infrastructure that heals itself.**
+
+- 🧠 **RandomForest AI** — 100% accuracy predicting failures from CPU/Memory metrics
+- 🔄 **Auto-Healer** — Polls every 30s, auto-restarts or scales on 75%+ failure probability
+- ☁️ **58 Terraform resources** — VPC, EKS cluster, 3 t3.medium nodes (ap-south-1)
+- 📊 **Observability** — Prometheus + Grafana stack
+- 🔐 **CI/CD** — GitHub Actions with security scanning (Trivy)
+- ⏱️ **MTTR** — Reduced from 30 minutes to 30 seconds
+
+    </td>
+    <td width="50%" valign="top">
+
 ### 🎯 End-to-End K8s Three-Tier Project
 **[→ View Repository](https://github.com/ritejmule2126/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project)**
 
@@ -152,6 +179,8 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 - 📊 **Monitoring:** Prometheus + Grafana
 
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
 ### 🔐 DevSecOps CI Pipeline
@@ -169,8 +198,6 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 - 🐳 Automated Docker builds with SHA tagging
 
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
 ### 🏗️ EKS Terraform Infrastructure
@@ -188,24 +215,6 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 - ☁️ **Remote State:** S3 + DynamoDB locking
 
     </td>
-    <td width="50%" valign="top">
-
-### 🐳 Docker AWS DevOps Capstone
-**[→ View Repository](https://github.com/ritejmule2126/docker-aws-devops-capstone-project)**
-
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/EC2-%23FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Full-Stack App Containerized & Deployed on AWS**
-
-- 🐳 **Multi-Container:** Docker Compose setup
-- ☁️ **Cloud Deployment:** AWS EC2
-- 💾 **Data Persistence:** Docker volumes
-- 🩺 **Health Checks:** Custom /health endpoint
-
-    </td>
   </tr>
 </table>
 
@@ -215,6 +224,7 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 
 | Project | Key Achievement | Tech Highlight |
 |---------|----------------|----------------|
+| **Self-Healing AI Infrastructure** | AI predicts failures with 100% accuracy, auto-heals in <60s | RandomForest + EKS + GitHub Actions |
 | **K8s Three-Tier** | Full GitOps workflow with ArgoCD | Prometheus + Grafana monitoring |
 | **DevSecOps Pipeline** | 98.5% success rate | Self-hosted GitHub runner |
 | **EKS Terraform** | Modular, reusable infrastructure | S3 remote state + DynamoDB lock |
@@ -226,7 +236,7 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 
 > *"I don't just use DevOps tools — I documented every step of learning them."*
 
-Over **15 structured weeks**, I progressed from Linux fundamentals to production-grade Kubernetes monitoring.
+Over **15 structured weeks**, I progressed from Linux fundamentals to production-grade Kubernetes monitoring and **AI-powered self-healing infrastructure**.
 
 | Week | Topic | Milestone |
 |------|-------|-----------|
@@ -237,7 +247,7 @@ Over **15 structured weeks**, I progressed from Linux fundamentals to production
 | 9–10 | AWS Core (EC2, S3, IAM, VPC) | Deployed real workloads on AWS |
 | 11–12 | Terraform & IaC | Modular infra, remote state, workspaces |
 | 13–14 | Kubernetes & EKS | Deployments, Services, Ingress, HPA |
-| 15 | Prometheus & Grafana | Full observability stack on K8s |
+| 15 | Prometheus & Grafana + **AI Self-Healing** | Full observability + ML-powered auto-remediation |
 
 **[→ Read the Full DevOps Journey](https://ritejportfolio.kesug.com/pages/devops-journey.html)**
 
@@ -249,7 +259,7 @@ Over **15 structured weeks**, I progressed from Linux fundamentals to production
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ritejmule2126&theme=react-dark&hide_border=true&area=true&custom_title=Code%20&%20Infrastructure%20Activity)
 
-> 💡 **Note:** My most significant DevOps work — EKS clusters, Terraform modules, and CI/CD pipelines — is developed in **private repositories and cloud labs**. The activity above represents public-facing contributions.
+> 💡 **Note:** My most significant DevOps work — EKS clusters, Terraform modules, AI self-healing systems, and CI/CD pipelines — is developed in **private repositories and cloud labs**. The activity above represents public-facing contributions.
 
 </div>
 
@@ -264,6 +274,7 @@ I'm actively seeking **DevOps Engineer** or **Cloud Infrastructure Engineer** ro
 - 🔒 Implement security-first DevSecOps practices
 - 📊 Design observability and monitoring solutions
 - 🚢 Drive GitOps adoption with ArgoCD and Kubernetes
+- 🧠 Bring AI-powered automation to infrastructure (MLOps)
 
 <div align="center">
 
@@ -290,7 +301,7 @@ I'm actively seeking **DevOps Engineer** or **Cloud Infrastructure Engineer** ro
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
-*"Infrastructure is code. Code is craft. Craft is everything."*
+*"Infrastructure is code. Code is craft. AI is the future. Craft is everything."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ritejmule2126&color=0e75b6&style=flat-square&label=Profile+Views)
 
