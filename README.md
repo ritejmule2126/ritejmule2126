@@ -215,6 +215,24 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 - ☁️ **Remote State:** S3 + DynamoDB locking
 
     </td>
+    <td width="50%" valign="top">
+
+### 🐳 Docker AWS DevOps Capstone
+**[→ View Repository](https://github.com/ritejmule2126/docker-aws-devops-capstone-project)**
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/EC2-%23FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Full-Stack App Containerized & Deployed on AWS**
+
+- 🐳 **Multi-Container:** Docker Compose setup
+- ☁️ **Cloud Deployment:** AWS EC2
+- 💾 **Data Persistence:** Docker volumes
+- 🩺 **Health Checks:** Custom /health endpoint
+
+    </td>
   </tr>
 </table>
 
