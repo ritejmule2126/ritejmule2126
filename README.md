@@ -1,20 +1,22 @@
 <div align="center">
 
-<!-- HERO BANNER - GitHub Compatible -->
+<!-- HERO BANNER - GitHub Compatible Typing SVG -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Infrastructure+as+Code+Advocate;Container+Orchestration+Expert;DevSecOps+Practitioner;SRE+Fundamentals">
   <img alt="DevOps Engineer Banner" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=800&lines=DevOps+%26+Cloud+Infrastructure+Engineer;Infrastructure+as+Code+Advocate;Container+Orchestration+Expert;DevSecOps+Practitioner;SRE+Fundamentals">
 </picture>
 
-<!-- HERO BANNER -->
-<img width="100%" src="github-visual.png" />
+<!-- LIVE RUNNING ANIMATED DEVOPS FLOW DIAGRAM (60FPS) -->
+<p align="center">
+  <img width="100%" src="https://portfolio.devopswithritej.online/app/devops-lifecycle-architecture.svg" alt="DevOps Engineering Architecture Flow Diagram" />
+</p>
 
 ### *"Building Resilient Infrastructure, One Pipeline at a Time."*
 
 > Automate everything. Secure by default. Observe obsessively.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritej-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritej)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ritejportfolio.kesug.com-%2300C896?style=for-the-badge&logo=vercel&logoColor=white)](https://ritejportfolio.kesug.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ritej--mule-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritej-mule-428676288/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devopswithritej.online-%2300C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.devopswithritej.online/app/index.html)
 [![Email](https://img.shields.io/badge/Email-contact%40ritej-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ritej)
 [![GitHub](https://img.shields.io/badge/GitHub-ritejmule2126-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritejmule2126)
 
@@ -24,9 +26,9 @@
 
 ## 👋 About Me
 
-<div align="left">
-  <img align="right" src="development.gif" width="280" style="border-radius: 16px;">
-</div>
+<table>
+  <tr>
+    <td width="68%" valign="top">
 
 **Name:** Ritej Anil Mule  
 **Role:** DevOps & Cloud Infrastructure Engineer  
@@ -48,7 +50,12 @@ I'm a **detail-oriented DevOps engineer** with deep hands-on experience across t
 
 My work is driven by three principles: **automate aggressively**, **secure by default**, and **observe everything**.
 
-<br clear="both">
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="development.gif" width="100%" style="border-radius: 14px;" alt="Development Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,7 +64,7 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 <div align="center">
 
 | Certification | Issuer | Status |
-|---------------|--------|--------|
+|:---|:---|:---:|
 | <img src="https://img.shields.io/badge/AWS-Certified%20Developer%20%E2%80%93%20Associate-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer Associate"/> | Amazon Web Services (via Infosys Springboard) | ✅ Active |
 | <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%202025%20Certified%20DevOps%20Professional-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure 2025 Certified DevOps Professional"/> | Oracle University | ✅ Active |
 | <img src="https://img.shields.io/badge/AWS-Cloud%20Quest%20Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Quest Cloud Practitioner"/> | Amazon Web Services | ✅ Active |
@@ -88,50 +95,16 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/EKS-%23FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/EC2-%23FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-%23569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/Lambda-%23FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Route53](https://img.shields.io/badge/Route53-%238C4FFF?style=for-the-badge&logo=amazon-route53&logoColor=white)
-
-### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 🔁 CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-%2341BF47?style=for-the-badge&logo=jfrog&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/ECR-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### ⚙️ Container Orchestration
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%230F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-### 🤖 AI/ML in DevOps (MLOps)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🔒 DevSecOps
-![SonarCloud](https://img.shields.io/badge/SonarCloud-%23F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-%234C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-%2319044c?style=for-the-badge&logo=aqua&logoColor=white)
-
-### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 💻 Languages & Scripting
-![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-%23CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-%237B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+| Domain Category | Technologies & Tools |
+|:---|:---|
+| ☁️ **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Amazon EKS](https://img.shields.io/badge/EKS-%23FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white) ![Amazon EC2](https://img.shields.io/badge/EC2-%23FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white) ![Amazon S3](https://img.shields.io/badge/S3-%23569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/Lambda-%23FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white) ![Route53](https://img.shields.io/badge/Route53-%238C4FFF?style=for-the-badge&logo=amazon-route53&logoColor=white) |
+| 🏗️ **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-%237B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white) |
+| 🔁 **CI/CD & Automation** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D?style=for-the-badge&logo=argo&logoColor=white) ![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-%2341BF47?style=for-the-badge&logo=jfrog&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white) ![Amazon ECR](https://img.shields.io/badge/ECR-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ⚙️ **Container Orchestration** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-%230F1689?style=for-the-badge&logo=helm&logoColor=white) |
+| 🤖 **AI/ML in DevOps (MLOps)** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| 🔒 **DevSecOps** | ![SonarCloud](https://img.shields.io/badge/SonarCloud-%23F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white) ![Snyk](https://img.shields.io/badge/Snyk-%234C4A73?style=for-the-badge&logo=snyk&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-%2319044c?style=for-the-badge&logo=aqua&logoColor=white) |
+| 📊 **Monitoring & Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white) |
+| 💻 **Languages & Scripting** | ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![YAML](https://img.shields.io/badge/YAML-%23CB171E?style=for-the-badge&logo=yaml&logoColor=white) ![HCL](https://img.shields.io/badge/HCL-%237B42BC?style=for-the-badge&logo=terraform&logoColor=white) |
 
 </div>
 
@@ -235,6 +208,8 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 - 🩺 **Health Checks:** Custom /health endpoint
 
     </td>
+    <td width="50%" valign="top">
+    </td>
   </tr>
 </table>
 
@@ -242,13 +217,17 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 
 ## 📊 Project Impact & Metrics
 
+<div align="center">
+
 | Project | Key Achievement | Tech Highlight |
-|---------|----------------|----------------|
-| **Self-Healing AI Infrastructure** | AI predicts failures with 100% accuracy, auto-heals in <60s | RandomForest + EKS + GitHub Actions |
+|:---|:---|:---|
+| **Self-Healing AI Infrastructure** | AI predicts failures with 100% accuracy, auto-heals in &lt;60s | RandomForest + EKS + GitHub Actions |
 | **K8s Three-Tier** | Full GitOps workflow with ArgoCD | Prometheus + Grafana monitoring |
 | **DevSecOps Pipeline** | 98.5% success rate | Self-hosted GitHub runner |
 | **EKS Terraform** | Modular, reusable infrastructure | S3 remote state + DynamoDB lock |
 | **Docker Capstone** | 4-container app on AWS EC2 | Health checks + persistent volumes |
+
+</div>
 
 ---
 
@@ -258,18 +237,26 @@ My work is driven by three principles: **automate aggressively**, **secure by de
 
 Over **15 structured weeks**, I progressed from Linux fundamentals to production-grade Kubernetes monitoring and **AI-powered self-healing infrastructure**.
 
-| Week | Topic | Milestone |
-|------|-------|-----------|
-| 1–2 | Linux & Shell Scripting | Automated sys-admin tasks with Bash |
-| 3–4 | Git & Version Control | Branching strategies, hooks, workflows |
-| 5–6 | Docker & Containerization | Multi-stage builds, Docker Compose |
-| 7–8 | CI/CD with Jenkins & GitHub Actions | Pipeline-as-Code from scratch |
-| 9–10 | AWS Core (EC2, S3, IAM, VPC) | Deployed real workloads on AWS |
-| 11–12 | Terraform & IaC | Modular infra, remote state, workspaces |
-| 13–14 | Kubernetes & EKS | Deployments, Services, Ingress, HPA |
-| 15 | Prometheus & Grafana + **AI Self-Healing** | Full observability + ML-powered auto-remediation |
+<div align="center">
 
-**[→ Read the Full DevOps Journey](https://ritejportfolio.kesug.com/pages/devops-journey.html)**
+| Week | Topic | Milestone |
+|:---:|:---|:---|
+| **1–2** | Linux & Shell Scripting | Automated sys-admin tasks with Bash |
+| **3–4** | Git & Version Control | Branching strategies, hooks, workflows |
+| **5–6** | Docker & Containerization | Multi-stage builds, Docker Compose |
+| **7–8** | CI/CD with Jenkins & GitHub Actions | Pipeline-as-Code from scratch |
+| **9–10** | AWS Core (EC2, S3, IAM, VPC) | Deployed real workloads on AWS |
+| **11–12** | Terraform & IaC | Modular infra, remote state, workspaces |
+| **13–14** | Kubernetes & EKS | Deployments, Services, Ingress, HPA |
+| **15** | Prometheus & Grafana + **AI Self-Healing** | Full observability + ML-powered auto-remediation |
+
+</div>
+
+<p align="center">
+  <a href="https://portfolio.devopswithritej.online/app/pages/devops-journey.html">
+    <img src="https://img.shields.io/badge/Read%20the%20Full%20DevOps%20Journey-%E2%86%92%20Explore%20Chronicle-%2300C896?style=for-the-badge" alt="Read DevOps Journey" />
+  </a>
+</p>
 
 ---
 
@@ -308,16 +295,12 @@ I'm actively seeking **DevOps Engineer** or **Cloud Infrastructure Engineer** ro
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritej)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ritejportfolio.kesug.com-%2300C896?style=for-the-badge&logo=vercel&logoColor=white)](https://ritejportfolio.kesug.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritej-mule-428676288/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devopswithritej.online-%2300C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.devopswithritej.online/app/index.html)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ritej)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Repos-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritejmule2126)
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
